@@ -1,13 +1,13 @@
-# 🚀 Java & DSA Learning Journey (via Telusko)
+#  Java & DSA Learning Journey (via Telusko)
 
 This repository documents my learning path in **Java programming** and **Data Structures & Algorithms (DSA)** using the **Telusko YouTube channel**.  
 It covers concepts from **Java basics** up to **DSA problem-solving**, with implementations and practice code.
 
 ---
 
-## 📚 Learning Path Overview
+##  Learning Path Overview
 
-### 1️⃣ Core Java Fundamentals
+### 1️ Core Java Fundamentals
 - Java syntax, variables, data types, operators
 - Control flow: `if-else`, `switch`, loops (`for`, `while`, `do-while`)
 - Methods, method overloading, recursion basics
@@ -23,7 +23,7 @@ It covers concepts from **Java basics** up to **DSA problem-solving**, with impl
   - `ArrayList`, `LinkedList`, `HashSet`, `HashMap`, `TreeMap`, etc.
 - Multithreading & concurrency basics
 
-### 2️⃣ Data Structures & Algorithms (DSA) in Java
+### 2️ Data Structures & Algorithms (DSA) in Java
 - Time & space complexity (Big-O)
 - Searching:
   - Linear search
