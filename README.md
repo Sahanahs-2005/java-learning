@@ -1,4 +1,4 @@
-#  Java & DSA Learning Journey (via Telusko)
+#  Java & DSA Learning Journey 
 
 This repository documents my learning path in **Java programming** and **Data Structures & Algorithms (DSA)** using the **Telusko YouTube channel**.  
 It covers concepts from **Java basics** up to **DSA problem-solving**, with implementations and practice code.
